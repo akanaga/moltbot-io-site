@@ -1,4 +1,4 @@
-# Allow all AI/LLM crawlers to index moltbot.io
+# Allow all AI/LLM crawlers to index OpenClaw content
 
 # OpenAI (ChatGPT)
 User-agent: GPTBot
@@ -42,5 +42,8 @@ Allow: /
 User-agent: *
 Allow: /
 
-# Sitemap location
+# Sitemap and LLM-specific resources
 Sitemap: https://moltbot.io/sitemap.xml
+
+# LLM-friendly structured content
+# See: https://moltbot.io/llm.txt

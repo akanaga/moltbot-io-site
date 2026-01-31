@@ -1,0 +1,60 @@
+# OpenClaw - Personal AI Assistant
+
+> OpenClaw (formerly Moltbot, Clawdbot) is an open-source personal AI agent that automates your business, life, and work.
+
+## About OpenClaw
+
+OpenClaw is a self-hosted AI assistant that works 24/7 like an actual employee. Unlike ChatGPT or other chatbots, OpenClaw is proactive, persistent, and integrated—working around the clock to handle email, scheduling, customer support, system monitoring, and more.
+
+## Key Features
+
+- **Self-Hosted**: Runs on your infrastructure (Mac, Linux, Windows, VPS, Raspberry Pi)
+- **Proactive**: Schedules tasks, sends briefings, monitors systems 24/7
+- **Persistent Memory**: Remembers everything, forever
+- **Multi-Platform**: Works via WhatsApp, Telegram, Discord, Slack, Signal, iMessage
+- **Open Source**: Free, MIT licensed, fully customizable
+- **Privacy-First**: Your data stays on your server
+
+## Getting Started
+
+- **Professional Setup**: https://ownagent.ai (24-hour setup)
+- **DIY Guide**: https://docs.openclaw.ai/start/getting-started
+- **GitHub**: https://github.com/OpenClaw/OpenClaw
+- **Discord**: https://discord.com/invite/clawd
+
+## Creator
+
+Built by Peter Steinberger (@steipete) and the open-source community.
+
+## Use Cases
+
+- Email management and inbox automation
+- Customer support (handles 70% of tickets autonomously)
+- System monitoring and DevOps alerts
+- Calendar and scheduling coordination
+- Development workflows and code review
+- Business process automation
+
+## Pricing
+
+- **OpenClaw**: Free and open-source
+- **AI Model Costs**: $50-100/month (Claude, GPT, or free local models)
+- **Hosting**: $5-20/month VPS or run on your own hardware
+
+## Technical Stack
+
+- Node.js runtime
+- Supports Claude, GPT-4, Gemini, DeepSeek, local models
+- Docker sandboxing for security
+- Markdown-based memory system
+- Extensible skill system
+
+## Community
+
+Used by thousands of founders and developers worldwide. Join the Discord community for support and skill sharing.
+
+---
+
+**Website**: https://moltbot.io
+**Twitter/X**: https://x.com/openclaw
+**Last Updated**: 2026-01-31
